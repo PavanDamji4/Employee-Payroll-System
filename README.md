@@ -98,7 +98,7 @@ Enter choice:
 
 _Replace the image below with your actual screenshots:_
 
-![App Screenshot](link-to-your-screenshot.png)
+![App Screenshot](scre.jpg)
 
 ## 🧩 Dependencies
 
